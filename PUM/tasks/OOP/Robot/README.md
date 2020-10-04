@@ -23,3 +23,6 @@ get_name(), get_build_year() – чтения атрибутов
 Name: Alex, Build Year: 1979
 >>> robot_list
 [Robot('Alex', 1979), Robot('Marvin', 2005), Robot(' Alex ', 2017)]
+1. чек
+2. чек
+3. чек
